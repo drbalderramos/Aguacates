@@ -4,7 +4,7 @@
     "build": "snowpack build",
     "format": "prettier --write \"src/**/*.js\"",
     "lint": "prettier --check \"src/**/*.js\"",
-    "homepage": "https://drbalderramos.github.io/Aguacates/"
+    "homepage": "https://drbalderramos.github.io/aguacates/"
   },
   "devDependencies": {
     "husky": "^4.3.8",
