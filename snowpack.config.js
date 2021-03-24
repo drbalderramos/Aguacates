@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://drbalderramos.github.io/Aguacates/',
+    baseUrl: 'https://drbalderramos.github.io/aguacates/',
   },
 }
